@@ -5,7 +5,7 @@ const ContactUs = () => {
   return (
     <div>
       <h1>For any Query,reach us...</h1>
-      <Link href="/contact-us">Contact-Us</Link>
+     
     </div>
   )
 }

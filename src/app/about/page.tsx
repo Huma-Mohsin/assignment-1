@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div>
       <p>We are leading and web development company</p>
-      <Link href="/">About Us</Link>
+      
     </div>
   )
 }
